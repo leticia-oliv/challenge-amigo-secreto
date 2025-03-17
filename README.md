@@ -1,6 +1,6 @@
 # Amigo Secreto
 
-Este é um projeto simples de **Amigo Secreto** feito em JavaScript. O aplicativo permite adicionar nomes de amigos, realizar o sorteio do amigo secreto e exibir o resultado de forma aleatória.
+Este é um projeto simples de **Amigo Secreto** feito em JavaScript. O aplicativo permite adicionar nomes de amigos, realizar o sorteio do amigo secreto e exibir o resultado de forma aleatória!
 
 ## Funcionalidades
 
